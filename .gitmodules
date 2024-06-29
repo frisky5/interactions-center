@@ -1,0 +1,3 @@
+[submodule "queues-core"]
+	path = queues-core
+	url = git@github.com:frisky5/queues-core.git
